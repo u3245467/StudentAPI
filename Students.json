@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "Name": "mahesh",
+    "Age": "33",
+    "Qualification": "BSC",
+    "Email": "std@gm.com"
+  },
+  {
+    "id": 2,
+    "Name": "suresh",
+    "Age": "23",
+    "Qualification": "HNC",
+    "Email": "std1@gm.com"
+  },
+  {
+    "id": 3,
+    "Name": "ramesh",
+    "Age": "25",
+    "Qualification": "A-level",
+    "Email": "std3@gm.com"
+  }
+]
